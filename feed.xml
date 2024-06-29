@@ -3,7 +3,7 @@
     <title>Cesar Mosquera | Visual Narrative and Design</title>
     <link href="https://cesarmosquera.com/feed.xml" rel="self" />
     <link href="https://cesarmosquera.com" />
-    <updated>2024-06-28T19:03:54-04:00</updated>
+    <updated>2024-06-29T08:59:18-04:00</updated>
     <author>
         <name>Cesar Mosquera</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://cesarmosquera.com/artistic-education-week-chile.html"/>
         <id>https://cesarmosquera.com/artistic-education-week-chile.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/18/plano9.webp" medium="image" />
+            <category term="Animation"/>
 
         <updated>2024-06-27T02:17:01-04:00</updated>
             <summary>
@@ -47,6 +48,7 @@
         <link href="https://cesarmosquera.com/lendemains-solidaires-4.html"/>
         <id>https://cesarmosquera.com/lendemains-solidaires-4.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/15/ls-4.webp" medium="image" />
+            <category term="Illustration"/>
 
         <updated>2024-06-27T01:20:48-04:00</updated>
             <summary>
@@ -71,6 +73,8 @@
         <link href="https://cesarmosquera.com/cultures-of-the-south.html"/>
         <id>https://cesarmosquera.com/cultures-of-the-south.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/14/screen1.webp" medium="image" />
+            <category term="Web Design and Development"/>
+            <category term="Visual Design"/>
 
         <updated>2024-06-27T01:19:02-04:00</updated>
             <summary>
@@ -83,6 +87,7 @@
             <![CDATA[
                     <p><img src="https://cesarmosquera.com/media/posts/14/screen1.webp" class="type:primaryImage" alt="" /></p>
                 <p>Dates: Feb 2024 - Apr 2024<br><br>Work: Graphic Design, Web Design and Development<br><br>Client: Culturas del Sur Sol del Illimani Foundation</p>
+<p>URL: <a href="https://illimaniculturasdelsur.org/">https://illimaniculturasdelsur.org/</a></p>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/205-il.webp" alt="" width="5000" height="2448"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/185-il.webp" alt="" width="3000" height="2000"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/OK2OLJ1-il.webp" alt="" width="3400" height="1947"></figure>
@@ -99,18 +104,20 @@
         <link href="https://cesarmosquera.com/venezuelanalysis-website.html"/>
         <id>https://cesarmosquera.com/venezuelanalysis-website.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/13/vascreen.webp" medium="image" />
+            <category term="Web Design and Development"/>
 
         <updated>2024-06-27T00:48:06-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cesarmosquera.com/media/posts/13/vascreen.webp" alt="" />
-                    Dates: Oct 2023 - Nov 2023 Work: Web Design and Development Client: Venezuelanalysis
+                    Dates: Oct 2023 - Nov 2023 Work: Web Design and Development Client: Venezuelanalysis URL: https://venezuelanalysis.com/
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://cesarmosquera.com/media/posts/13/vascreen.webp" class="type:primaryImage" alt="" /></p>
                 <p>Dates: Oct 2023 - Nov 2023<br><br>Work: Web Design and Development<br><br>Client: Venezuelanalysis</p>
+<p>URL: <a href="https://venezuelanalysis.com/">https://venezuelanalysis.com/</a></p>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/205-va.webp" alt="" width="5000" height="2448"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/185-va.webp" alt="" width="3000" height="2000"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/65978-va.webp" alt="" width="5000" height="3337"></figure>
@@ -127,6 +134,7 @@
         <link href="https://cesarmosquera.com/in-every-success.html"/>
         <id>https://cesarmosquera.com/in-every-success.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/20/14.webp" medium="image" />
+            <category term="Animation"/>
 
         <updated>2024-06-27T00:40:00-04:00</updated>
             <summary>
@@ -152,6 +160,8 @@
         <link href="https://cesarmosquera.com/indeed-career-guide.html"/>
         <id>https://cesarmosquera.com/indeed-career-guide.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/17/business-professional-attire-00.webp" medium="image" />
+            <category term="Visual Design"/>
+            <category term="Illustration"/>
 
         <updated>2024-06-27T00:37:00-04:00</updated>
             <summary>
@@ -184,18 +194,21 @@
         <link href="https://cesarmosquera.com/defending-peasants-rights.html"/>
         <id>https://cesarmosquera.com/defending-peasants-rights.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/12/undropsite.webp" medium="image" />
+            <category term="Web Design and Development"/>
+            <category term="Illustration"/>
 
         <updated>2024-06-27T00:35:51-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cesarmosquera.com/media/posts/12/undropsite.webp" alt="" />
-                    Dates: Dec 2022 - Feb 2023 Work: Web Design and Development Client: CETIM, FIAN International, and the Geneva Academy of&hellip;
+                    Dates: Dec 2022 - Feb 2023 Work: Illustration, Web Design and Development Client: CETIM, FIAN International, and the Geneva Academy&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://cesarmosquera.com/media/posts/12/undropsite.webp" class="type:primaryImage" alt="" /></p>
-                <p>Dates: Dec 2022 - Feb 2023<br><br>Work: Web Design and Development<br><br>Client: CETIM, FIAN International, and the Geneva Academy of International Humanitarian Law and Human Rights</p>
+                <p>Dates: Dec 2022 - Feb 2023<br><br>Work: Illustration, Web Design and Development<br><br>Client: CETIM, FIAN International, and the Geneva Academy of International Humanitarian Law and Human Rights</p>
+<p>URL: <a href="https://defendingpeasantsrights.org/">https://defendingpeasantsrights.org/</a></p>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/205-dp.webp" alt="" width="5000" height="2448"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/185-dp.webp" alt="" width="3000" height="2000"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/OK2OLJ1-dp.webp" alt="" width="3400" height="1947"></figure>
@@ -211,6 +224,7 @@
         <link href="https://cesarmosquera.com/hortencias-for-ines.html"/>
         <id>https://cesarmosquera.com/hortencias-for-ines.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/11/animaciones-hortencia.webp" medium="image" />
+            <category term="Animation"/>
 
         <updated>2024-06-26T23:46:23-04:00</updated>
             <summary>
@@ -223,11 +237,13 @@
             <![CDATA[
                     <p><img src="https://cesarmosquera.com/media/posts/11/animaciones-hortencia.webp" class="type:primaryImage" alt="" /></p>
                 <p>Dates: Nov 2022- Mar 2023<br><br>Work: Storyboard, Backgrounds and Animation<br><br>Client: La Estafeta</p>
-<figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/animaciones-hortencia.webp" alt="" width="1920" height="1080"></figure>
+<h2><figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/animaciones-hortencia.webp" alt="" width="1920" height="1080"></figure></h2>
+<h2>Storyboard</h2>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://media.cesarmosquera.com/file/cmportfolio/picture/guion-grafico-botas.jpg" data-size="2550x3300"><img loading="lazy" src="https://media.cesarmosquera.com/file/cmportfolio/picture/guion-grafico-botas-thumbnail.webp" alt="" width="768" height="994"></a></figure>
 <figure class="gallery__item"><a href="https://media.cesarmosquera.com/file/cmportfolio/picture/guion-grafico-nina.jpg" data-size="2550x3300"><img loading="lazy" src="https://media.cesarmosquera.com/file/cmportfolio/picture/guion-grafico-nina-thumbnail.webp" alt="" width="768" height="994"></a></figure>
 </div></div>
+<h2>Animatic</h2>
 <div class="responsive-two-column-grid">
 <div>
 <figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
@@ -238,6 +254,16 @@
 <source src="https://media.cesarmosquera.com/file/cmportfolio/video/animatic-botas.webm" type="video/webm" /></video></figure>
 </div>
 </div>
+<h2>Backgrounds</h2>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo01.webp" data-size="1284x1949"><img loading="lazy" src="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo01.webp" alt="" width="768" height="1166"></a></figure>
+<figure class="gallery__item"><a href="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo02.webp" data-size="1284x2036"><img loading="lazy" src="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo02.webp" alt="" width="768" height="1218"></a></figure>
+<figure class="gallery__item"><a href="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo03.webp" data-size="1287x1952"><img loading="lazy" src="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo03.webp" alt="" width="768" height="1165"></a></figure>
+<figure class="gallery__item"><a href="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo05.webp" data-size="1287x1952"><img loading="lazy" src="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo05.webp" alt="" width="768" height="1165"></a></figure>
+<figure class="gallery__item"><a href="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo06.webp" data-size="1287x1952"><img loading="lazy" src="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo06.webp" alt="" width="768" height="1165"></a></figure>
+<figure class="gallery__item"><a href="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo07.webp" data-size="1287x1952"><img loading="lazy" src="https://media.cesarmosquera.com/file/cmportfolio/picture/fondo07.webp" alt="" width="768" height="1165"></a></figure>
+</div></div>
+<h2>Animation</h2>
 <figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
 <source src="https://media.cesarmosquera.com/file/cmportfolio/video/Animaciones-Hortencia.webm" type="video/webm" /></video></figure>
 <p> </p>
@@ -252,18 +278,20 @@
         <link href="https://cesarmosquera.com/parking-corp-website.html"/>
         <id>https://cesarmosquera.com/parking-corp-website.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/10/screen-pc.webp" medium="image" />
+            <category term="Web Design and Development"/>
 
         <updated>2024-06-26T23:19:15-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cesarmosquera.com/media/posts/10/screen-pc.webp" alt="" />
-                    Dates: Nov 2020 Work: Web Design and Development Client: Parking Corp
+                    Dates: Nov 2020 Work: Web Design and Development Client: Parking Corp URL: https://parkingcorp.com.mx/
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://cesarmosquera.com/media/posts/10/screen-pc.webp" class="type:primaryImage" alt="" /></p>
                 <p>Dates: Nov 2020<br><br>Work: Web Design and Development<br><br>Client: Parking Corp</p>
+<p>URL: <a href="https://parkingcorp.com.mx/"></a><a href="https://parkingcorp.com.mx/">https://parkingcorp.com.mx/</a></p>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/205-pc.webp" alt="" width="5000" height="2448"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/185-pc.webp" alt="" width="3000" height="2000"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://media.cesarmosquera.com/file/cmportfolio/picture/65978-pc.webp" alt="" width="5000" height="3337"></figure>
@@ -278,6 +306,7 @@
         <link href="https://cesarmosquera.com/jorge-rodriguez-memorial.html"/>
         <id>https://cesarmosquera.com/jorge-rodriguez-memorial.html</id>
         <media:content url="https://cesarmosquera.com/media/posts/9/paramo.webp" medium="image" />
+            <category term="Animation"/>
 
         <updated>2024-06-26T21:42:59-04:00</updated>
             <summary>
